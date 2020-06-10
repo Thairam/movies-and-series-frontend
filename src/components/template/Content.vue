@@ -17,7 +17,6 @@ export default {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-color: #efefef;
   padding: 20px;
 }
 </style>

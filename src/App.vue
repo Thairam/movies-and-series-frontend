@@ -44,4 +44,16 @@ body {
     "content content"
     "footer footer";
 }
+
+.toast-success {
+  font-size: 1.5rem !important;
+  background-color: black !important;
+  color: rgb(43, 180, 43) !important;
+}
+
+.toast-error {
+  font-size: 1.5rem !important;
+  background-color: black !important;
+  color: red !important;
+}
 </style>
